@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.vscode/
+
+# ROS build folders
+build/
+install/
+log/
+
+# Speech recognition models, if added later
+model_cn/
+model_en/
+vosk-model*/
